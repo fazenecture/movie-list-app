@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891579011064",
+    "project_id": "movie-list-app-fcf46",
+    "storage_bucket": "movie-list-app-fcf46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891579011064:android:53c6a41f6baa0a25efd00d",
+        "android_client_info": {
+          "package_name": "com.example.movist_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891579011064-p1ikgj0jqhq8t7tuvb9lktvcrv2t0as8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH02HHAad-U-OjiH3-KnDfEePvWq8ATmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891579011064-p1ikgj0jqhq8t7tuvb9lktvcrv2t0as8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
